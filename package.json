@@ -1,0 +1,20 @@
+{
+  "name": "apihelper.js",
+  "version": "1.0.0",
+  "description": "A small module to facilitate API calls.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushAsterion/apihelper.js.git"
+  },
+  "author": "Lucas Petitjean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MushAsterion/apihelper.js/issues"
+  },
+  "homepage": "https://github.com/MushAsterion/apihelper.js#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "https": "1.0.0"
+  }
+}
